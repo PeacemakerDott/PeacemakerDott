@@ -1,4 +1,4 @@
-### Hi there, my name is Dauren. I am Data Analytic from Moscow. 
+### Hi there, my name is Dauren. I am Data Analytic. 
 
 #### My tech stack:
 <div id="badges">
