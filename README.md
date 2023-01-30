@@ -1,6 +1,6 @@
 ### Hi there, my name is Dauren. I am Data Analytic from Moscow. 
 
-My tech stack:
+#### My tech stack:
 <div id="badges">
   <a href="https://www.python.org">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -14,25 +14,29 @@ My tech stack:
  <a href="https://pandas.pydata.org/">
   <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&logoColor=white"/>
  </a>
- <a href="https://scipy.org//">
+ <a href="https://scipy.org">
   <img src="https://img.shields.io/badge/scipy-blue?style=for-the-badge&logo=scipy&logoColor=white"/>
  </a>
  <a href="https://plotly.com/">
   <img src="https://img.shields.io/badge/plotly-blue?style=for-the-badge&logo=plotly&logoColor=white"/>
  </a>  
+  <br>
  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">  
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-green?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-blue?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>  
  </a>
+ <a href="https://cloud.google.com/bigquery">  
+  <img src="https://img.shields.io/badge/Google%20BigQuery-blue?style=for-the-badge&logo=bigquery&logoColor=white%22%20alt=%22Pandas%20Badge%22/"/>  
+  </a>
 </div>
 
 
-Links to reach me: 
+#### How to reach me: 
 <div id="links">
  <a href="https://t.me/peacemaker_dott">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  </a>
  <a href="https://discordapp.com/users/450079878046416896">
-  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/Discord-orange?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
  </a>
 </div>
 
