@@ -1,9 +1,12 @@
-### Hi there, my name is Dauren. I am Data Analytic. 
+### Hi there, my name is Dauren. 
 
 #### My tech stack:
 <div id="badges">
   <a href="https://www.python.org">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
+ </a>
+  <a href="https://www.oracle.com/database/">
+  <img src="https://img.shields.io/badge/oracle-blue?style=for-the-badge&logo=oracle&logoColor=white"/>
  </a>
  <a href="https://jupyter.org/">
   <img src="https://img.shields.io/badge/Jupyter-blue?style=for-the-badge&logo=Jupyter&logoColor=white"/>
